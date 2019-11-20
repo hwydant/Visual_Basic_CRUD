@@ -1,0 +1,22 @@
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\bin\Debug\Koneksi.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\bin\Debug\Koneksi.exe
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\bin\Debug\Koneksi.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\bin\Debug\Koneksi.xml
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\obj\Debug\Koneksi.vbprojResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\obj\Debug\Koneksi.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\obj\Debug\Koneksi.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\obj\Debug\Koneksi.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\obj\Debug\Koneksi.exe
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\obj\Debug\Koneksi.xml
+C:\Users\User\AppData\Local\Temporary Projects\Koneksi\obj\Debug\Koneksi.pdb
+D:\VB\Koneksi\Koneksi\bin\Debug\Koneksi.exe.config
+D:\VB\Koneksi\Koneksi\obj\Debug\Koneksi.exe
+D:\VB\Koneksi\Koneksi\obj\Debug\Koneksi.xml
+D:\VB\Koneksi\Koneksi\obj\Debug\Koneksi.pdb
+D:\VB\Koneksi\Koneksi\bin\Debug\Koneksi.exe
+D:\VB\Koneksi\Koneksi\bin\Debug\Koneksi.pdb
+D:\VB\Koneksi\Koneksi\bin\Debug\Koneksi.xml
+D:\VB\Koneksi\Koneksi\obj\Debug\Koneksi.vbprojResolveAssemblyReference.cache
+D:\VB\Koneksi\Koneksi\obj\Debug\Koneksi.Form1.resources
+D:\VB\Koneksi\Koneksi\obj\Debug\Koneksi.Resources.resources
+D:\VB\Koneksi\Koneksi\obj\Debug\Koneksi.vbproj.GenerateResource.Cache
